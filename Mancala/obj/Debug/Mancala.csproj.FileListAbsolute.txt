@@ -1,0 +1,22 @@
+c:\users\connor\documents\visual studio 2013\Projects\Mancala\Mancala\bin\Debug\Mancala.exe.config
+c:\users\connor\documents\visual studio 2013\Projects\Mancala\Mancala\obj\Debug\Mancala.csprojResolveAssemblyReference.cache
+c:\users\connor\documents\visual studio 2013\Projects\Mancala\Mancala\obj\Debug\Mancala.Form1.resources
+c:\users\connor\documents\visual studio 2013\Projects\Mancala\Mancala\obj\Debug\Mancala.Properties.Resources.resources
+c:\users\connor\documents\visual studio 2013\Projects\Mancala\Mancala\obj\Debug\Mancala.csproj.GenerateResource.Cache
+c:\users\connor\documents\visual studio 2013\Projects\Mancala\Mancala\bin\Debug\Mancala.exe
+c:\users\connor\documents\visual studio 2013\Projects\Mancala\Mancala\bin\Debug\Mancala.pdb
+c:\users\connor\documents\visual studio 2013\Projects\Mancala\Mancala\obj\Debug\Mancala.exe
+c:\users\connor\documents\visual studio 2013\Projects\Mancala\Mancala\obj\Debug\Mancala.pdb
+C:\Users\Connor\SkyDrive\College\Fall Semester 2014\CS1153 Videogame Programming\Mancala\Mancala\bin\Debug\Mancala.exe.config
+C:\Users\Connor\SkyDrive\College\Fall Semester 2014\CS1153 Videogame Programming\Mancala\Mancala\obj\Debug\Mancala.exe
+C:\Users\Connor\SkyDrive\College\Fall Semester 2014\CS1153 Videogame Programming\Mancala\Mancala\obj\Debug\Mancala.pdb
+C:\Users\Conmiro\SkyDrive\College\Fall Semester 2014\CS1153 Videogame Programming\Mancala\Mancala\bin\Debug\Mancala.exe.config
+C:\Users\Conmiro\SkyDrive\College\Fall Semester 2014\CS1153 Videogame Programming\Mancala\Mancala\obj\Debug\Mancala.exe
+C:\Users\Conmiro\SkyDrive\College\Fall Semester 2014\CS1153 Videogame Programming\Mancala\Mancala\obj\Debug\Mancala.pdb
+C:\Users\Conmiro\SkyDrive\College\Fall Semester 2014\CS1153 Videogame Programming\Mancala\Mancala\bin\Debug\Mancala.exe
+C:\Users\Conmiro\SkyDrive\College\Fall Semester 2014\CS1153 Videogame Programming\Mancala\Mancala\bin\Debug\Mancala.pdb
+C:\Users\Conmiro\SkyDrive\College\Fall Semester 2014\CS1153 Videogame Programming\Mancala\Mancala\obj\Debug\Mancala.csprojResolveAssemblyReference.cache
+C:\Users\Conmiro\SkyDrive\College\Fall Semester 2014\CS1153 Videogame Programming\Mancala\Mancala\obj\Debug\Mancala.Properties.Resources.resources
+C:\Users\Conmiro\SkyDrive\College\Fall Semester 2014\CS1153 Videogame Programming\Mancala\Mancala\obj\Debug\Mancala.csproj.GenerateResource.Cache
+C:\Users\Conmiro\SkyDrive\College\Fall Semester 2014\CS1153 Videogame Programming\Mancala\Mancala\obj\Debug\Mancala.mainForm.resources
+C:\Users\Conmiro\SkyDrive\College\Fall Semester 2014\CS1153 Videogame Programming\Mancala\Mancala\obj\Debug\Mancala.infoForm.resources
